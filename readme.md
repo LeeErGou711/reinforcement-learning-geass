@@ -6,6 +6,8 @@
 ## 6.22
 [note](https://github.com/LeeErGou711/reinforcement-learning-/blob/main/6_22.md)
 review ML, DL, and pytorch   
+[code](https://colab.research.google.com/drive/1f0kx7NjsHA_XRci-wq_avwzXdi3sPTMq?usp=sharing#scrollTo=PG_u09dUrI-6)
+pytorch tutorial
 ## 6.23
 [note](https://github.com/LeeErGou711/reinforcement-learning-/blob/main/6_23.md)
 game theory basics
