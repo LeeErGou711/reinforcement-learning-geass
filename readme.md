@@ -11,3 +11,6 @@ pytorch tutorial
 ## 6.23
 [note](https://github.com/LeeErGou711/reinforcement-learning-/blob/main/6_23.md)
 game theory basics
+## 6.25
+[note](https://github.com/LeeErGou711/reinforcement-learning-/blob/main/6_25.md)
+reinforcement learning basics
